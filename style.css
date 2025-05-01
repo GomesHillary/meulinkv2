@@ -92,3 +92,7 @@ a{
     background-size: cover;  
     margin-right: 8px;
 }
+
+a:hover{
+    background-color: #06141b;
+}
